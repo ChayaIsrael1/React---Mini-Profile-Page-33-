@@ -1,0 +1,21 @@
+.card {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 4px;
+}
+
+.avatar {
+    height: 20px;
+    width: 20px;
+      border-radius: 50%; 
+  object-fit: cover; 
+  border: 1px solid black;
+}
+
+.name {
+    font-weight: bold;
+}
+.description {
+    color: gray;
+}
